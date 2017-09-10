@@ -39,3 +39,10 @@ scene-info                 list devices in scene/group
 device-toggle              toggle device <id>
 device-off                 switch device off <id>
 ```
+
+**Installation:**
+When you have a proper Go installation setup, run this:
+
+```sh
+$> go install github.com/pawal/domo-cli
+```
